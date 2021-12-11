@@ -188,8 +188,7 @@ h1{
 .subtítulo{
     font-family: 'Readex Pro', sans-serif;
     color: #14181C;
-    text-align: justify;
-    margin-left: 175px;
+    text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.164);
 }
 
@@ -282,7 +281,7 @@ h1{
     align-items: center;
 }
 
-.pagina2{
+.o-que-é-inovação{
     width: 1220px;
     height: 200px;
     background-image: url(images/O\ que\ é\ inovação-IMG1.png);
@@ -292,7 +291,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina3{
+.como-se-classificam-as-inovações{
     width: 800px;
     height: 200px;
     background-image: url(images/Como\ se\ classificam\ as\ inovações-IMG2.png);
@@ -302,7 +301,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina4{
+.como-inovar{
     width: 400px;
     height: 200px;
     background-image: url(images/Como\ inovar-IMG3.png);
@@ -312,7 +311,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina5{
+.o-que-caracteriza-um-sujeito-inovador{
     width: 600px;
     height: 210px;
     background-image: url(images/O\ que\ caracteriza\ um\ sujeito\ inovador-IMG4.png);
@@ -322,7 +321,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina6{
+.o-ambiente-afeta-a-inovação{
     width: 600px;
     height: 210px;
     background-image: url(images/O\ ambiente\ afeta\ a\ inovação_IMG5.png);
@@ -332,7 +331,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina7{
+.por-que-as-empresas-inovam{
     width: 400px;
     height: 200px;
     background-image: url(images/Por\ que\ as\ empresas\ inovam-IMG6.png);
@@ -342,7 +341,7 @@ h1{
     border-radius: 10px;
 }
 
-.pagina8{
+.como-captar-recursos-para-inovações{
     width: 800px;
     height: 200px;
     background-image: url(images/como\ captar\ recursos\ para\ inovações_IMG7.png);
